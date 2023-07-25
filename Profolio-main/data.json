@@ -1,0 +1,79 @@
+{
+
+  "Color": "#BA6D0C",
+  "Head": {
+    "title": "Esitha Kavisara Jayawardhana",
+    "NavbarName": "Esitha Kavisara Jayawardhana"
+  },
+  "HomePage": {
+    "name": "Esitha Kavisara Jayawardhana",
+    "Position": [
+      "Programmer ",
+      "Web Developer",
+      "Software Engineer",
+      "Full Stack Developer"
+    ],
+    "description": " Team player with an eye for detail..."
+  },
+  "AboutPage": {
+    "AboutParagraph": "Soon to be a graduate with a BSc (Hons) in Information Technology Specializing in Software Engineering.Interested in emerging new technologies and like to face new challenges, And a conscientious and enthusiastic person who works hard and pays attention to details and information. I’m flexible, quick to pick up new skills, and eager to learn more from others. "
+   
+  },
+  "Skills": [
+    "MERN",    
+    "Java",
+    "JavaScript",
+    "GitHub",    
+    "C",
+    "C++",
+    "HTML",
+    "CSS",
+    "KOTLIN",
+    "Firebase"
+  ],
+  "Projects": [
+    {
+      "title": "Online Fitness System",
+      "ImageLink": "https://drive.google.com/uc?export=download&id=1SW0O_1om485u2uHvb3IjZi-COybPFXHt",
+      "Status": "Completed",
+      "ProjectName": "Online Fitness System",
+      "Technologies": ["HTML","CSS","MySQL ","JS","php"],
+      "Description": "This project had functionalities for Customer to do Reservations, Stock, and Order exercise equipment, User validation, add item to cart and user management. We did this project using HTML,JS,MySQL and php",
+      "DemoLink": "https://github.com/it21147678/IWT-project-FITMORE-online-fitness-training-web"
+    },
+    {
+      "title": "Railway e-ticketing and Management System",
+      "ImageLink": "https://drive.google.com/uc?export=download&id=18P2mKsdeeAcJhmin7OJHEofm_AZXLHqX",
+      "Status": "Completed",
+      "ProjectName": "Railway e-ticketing and Management System",
+      "Technologies": ["MongoDB","Express","React","Node"],
+      "Description": "Railway e-ticketing and management system is an online platform that enables passengers to book their train tickets online and manage their bookings electronically.This includes, • Payment Management System. • Freight management System. •Warrant booking management System. • Railway season tickets issuing System. • Customer Service Management System. • User Management System. • Ticket reservation management System. • Ticket Buying System And generates various types of reports to better management of the Railway. And we used MERN stack to develop this project.",
+      "DemoLink": ""
+    },
+    {
+      "title": "Vehicle Service and Fuel Station System",
+      "ImageLink": "",
+      "Status": "Completed",
+      "ProjectName": "Vehicle Service and Fuel Station System",
+      "Technologies": ["Java","JavaScript","XML","MySQL","Php"],
+      "Description": " This project had functionalities for Customer to do service reservations,to view updated prices of services and oils. And Administrator has the functionalities as update the fuel prices , order management, user management through the UI. We did this project using JAVA,HTML,CSS,JS,MySQL,php and Bootstrap.",
+      "DemoLink": ""
+    },
+    {
+      "title": "BOTANIST",
+      "ImageLink": "https://drive.google.com/uc?export=download&id=1zwTgYoYt73fS20b8-NhoCfBxarqcnnti",
+      "Status": "Completed",
+      "ProjectName": "BOTANIST",
+      "Technologies": ["KOTLIN","Firebase","Android Studio"],
+      "Description": "The PlantBuying and Selling Mobile App fosters a vibrant plant-loving community, bringing together buyers and sellers in a convenient and enjoyable digital marketplace. Whether users are looking to add greenery to their homes or grow their plant business, this app offers a seamless and enriching experience for all plant enthusiasts.",
+      "DemoLink": "https://github.com/it21147678/Botanist.git"
+    }
+    
+  ],
+  "Contact": {
+    "Email": "esithakavisara@gmail.com",
+    "Github": "https://github.com/it21147678",    
+    "LinkedIn": "https://linkedin.com/in/esithakavisarajayawardhana"
+    }
+  
+} 
